@@ -52,6 +52,8 @@ https://woocommerce.github.io/woocommerce-rest-api-docs/?javascript#introduction
    method: get
    params: dateFrom, dateTo, page, pageSize, order, orderby
 
+## II Product Module
+-------------------
 
 2. To view all products in a available
    
