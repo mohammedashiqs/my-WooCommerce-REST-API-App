@@ -58,6 +58,6 @@ https://woocommerce.github.io/woocommerce-rest-api-docs/?javascript#introduction
 2. To view all products in a available
    
    description: Fetches a list of all products available.
-   url: http://127.0.0.1:5000/products
+   url: http://127.0.0.1:3000/products
    method: get
    params: order, orderby
