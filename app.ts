@@ -5,7 +5,7 @@ dotenv.config()
 import { productRoute } from './routes/productsRoutes';
 import orderRoute from './routes/ordersRoutes'
 
-dotenv.config()
+
 
 const server = http.createServer((req, res) => {
 
